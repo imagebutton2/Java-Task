@@ -1,0 +1,3 @@
+将图片素材放在F:/Java/Java Project/推箱子/素材   路径下，
+音乐素材放在F:/Java/Java Project/推箱子/素材  路径下，
+工程直接导入Eclipse,即可运行，
